@@ -2,7 +2,7 @@
 
 I am a Full-Stack Dev student with many years of experience in comms and content creation.
 
-I have been honing my dev skills with loads of courses like [Codesmith](https://www.codesmith.io/) , [Codeacademy](https://www.codecademy.com/), Alura and more recently a four-month immersive in [Gama Academy](https://www.gama.academy/).
+I have been honing my dev skills with loads of courses like [Codesmith](https://www.codesmith.io/) , [Codeacademy](https://www.codecademy.com/), Udemy and more recently a four-month immersive in [Gama Academy](https://www.gama.academy/).
 
 Along with being an avid learner and in love with tech development, I have 15 years of content creation, planning, brand strategy and managing teams under my skill set. With passages through companies such as iG (one biggest news website in Brazil), PicPay (brazilian tech power house), Overloadr (my videogames website) and Riot Games (global gaming company).
 
