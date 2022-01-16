@@ -1,6 +1,6 @@
 ## Heyo! I'm Caio Teixeira and welcome to my GitHub!
 
-I am a Full-Stack Dev student with many years of experience in comms and content creation.
+Full-Stack Dev student with many years of experience in comms and content creation.
 
 I have been honing my dev skills with loads of courses like [Codesmith](https://www.codesmith.io/) , [Codeacademy](https://www.codecademy.com/), Udemy and more recently a four-month immersive in [Gama Academy](https://www.gama.academy/).
 
